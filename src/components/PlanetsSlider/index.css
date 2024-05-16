@@ -1,0 +1,11 @@
+.planets-app-container {
+  min-height: 100vh;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  padding: 30px;
+}
+
+.main-heading {
+  color: #05acff;
+  text-align: center;
+}
